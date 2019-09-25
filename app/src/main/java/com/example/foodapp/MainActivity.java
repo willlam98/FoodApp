@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
         toolbar = getSupportActionBar();
         toolbar.setTitle("Food Storage");
 
@@ -92,6 +93,9 @@ public class MainActivity extends AppCompatActivity {
         transaction.addToBackStack(null);
         transaction.commit();
         Log.i("Info", "OK");
+        Log.i("Info", "OK");
+        Log.i("Info", "OK");
+
 
     }
 
