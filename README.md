@@ -4,4 +4,5 @@ This is an app that can help user to have a better management of their food/raw 
 
 This is the initial layout of the app
 
-![FoodStoragePage](https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/FoodStorage.png = 500x500)
+<img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/FoodStorage.png" height="24" width="48">
+
