@@ -92,8 +92,6 @@ public class MainActivity extends AppCompatActivity {
         transaction.replace(R.id.frame_container, fragment);
         transaction.addToBackStack(null);
         transaction.commit();
-        Log.i("Info", "OK");
-        Log.i("Info", "OK");
 
 
 
