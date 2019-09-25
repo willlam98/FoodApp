@@ -9,7 +9,6 @@ This is the initial layout of the app
 
 ****************************************************Current Development****************************************************
 
-Scanning Barcode to retrieve data of the food
-Layout optimisation
+Scanning Barcode to retrieve data of the food, Layout optimisation, applying APIs for food recipe, most functions of the app
 
 
