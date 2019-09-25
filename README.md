@@ -4,7 +4,7 @@ This is an app that can help user to have a better management of their food/raw 
 
 This is the initial layout of the app
 
-<img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/FoodStorage.png" height="370" width="200">  <img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/ChooseDate.png" height="370" width="200"> . <img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/ScanBarcode.png" height="370" width="200"> . <img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/Recipe.png" height="370" width="200">
+<img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/FoodStorage.png" height="370" width="200">  <img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/ChooseDate.png" height="370" width="200"> <img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/ScanBarcode.png" height="370" width="200">  <img src="https://github.com/willlam98/FoodApp/blob/master/FoodAppPrototypeImages/Recipe.png" height="370" width="200">
 
 
 ****************************************************Current Development****************************************************
