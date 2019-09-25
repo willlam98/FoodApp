@@ -93,8 +93,7 @@ public class MainActivity extends AppCompatActivity {
         transaction.addToBackStack(null);
         transaction.commit();
         Log.i("Info", "OK");
-        Log.i("Info", "OK");
-        Log.i("Info", "OK");
+
 
 
     }
